@@ -108,7 +108,7 @@ int main()
   // display information of test case
   system("clear");
 
-  printf("--- FIFO - Page Replacement Algorithm ---\n");
+  printf("--- LRU - Page Replacement Algorithm ---\n");
   printf("  - Number of pages: %d\n", number_page);
   printf("  - Number of frames: %d\n", number_frame);
   printf("  - Referenced sequence:\n\t");

@@ -10,7 +10,7 @@
 #define RANDOM 3
 
 // Default referenced sequence
-int DEFAULT_PAGE[] = {2, 1, 5, 2, 0, 8, 5, 0, 0, 0, 7};
+int DEFAULT_PAGE[] = {2, 1, 5, 2, 2, 2, 0, 7, 0, 0, 7};
 
 // number of page fault
 int page_fault = 0;
